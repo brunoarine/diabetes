@@ -13,7 +13,7 @@ In this work I will try to answer the following questions:
 - And finally, would it be possible to create a predictive model for early readmission? Such a model could help plan interventions for high-risk patients and reduce emotional and financial costs for both patients and hospitals respectively. 
 
 ## View the notebook
-You can view the notebook [here on Github](https://github.com/brunoarine/diabetes/blob/main/notebooks/diabetes.ipynb) or on [nbviewer](https://nbviewer.jupyter.org/github/brunoarine/diabetes/blob/main/notebooks/diabetes.ipynb).
+You can view the notebook [here on Github](https://github.com/brunoarine/diabetes/blob/main/notebooks/diabetes.ipynb).
 
 ## Try the notebook
 In your shell prompt, type the following:
