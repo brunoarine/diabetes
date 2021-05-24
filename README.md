@@ -55,7 +55,7 @@ Key insights:
 - Time in hospital (and indirectly number of lab procedures, number of procedures, and number of medications) could be an indicator of the patient's health. The longer the stay, the higher the probability of being readmitted within 30 days.
 - Number of inpatient visits in the last year could also be an indicator of the patient's health, but longer term. It's also strongly correlated with early readmission.
 - The older the patient, the higher the probability of early readmission after discharge.
-- People who were sent home are less likely to return within 30 days.
+- People who were discharged to their homes (instead of a skilled nursing facility, another short term hospital or clinic, etc.) are less likely to be readmitted within 30 days.
 - Even after being diagnosed with diabetes-related symptoms, patients who didn't have their HbA1c levels checked were more prone to early readmission, most likely because they needed a medication change.
 
 ## Dependencies
