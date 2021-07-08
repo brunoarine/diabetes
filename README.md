@@ -12,6 +12,8 @@ In this work I will try to answer the following questions:
 - Which variables are the strongest readmission predictors?
 - And finally, would it be possible to create a predictive model for early readmission? Such a model could help plan interventions for high-risk patients and reduce emotional and financial costs for both patients and hospitals respectively. 
 
+Please visit also the [blog post on Medium](https://brunoarine.medium.com/analyzing-and-predicting-hospital-readmission-of-patients-with-diabetes-69986513e7a4) about this project.
+
 ## View the notebook
 You can view the notebook [here on Github](https://github.com/brunoarine/diabetes/blob/main/notebooks/diabetes.ipynb).
 
